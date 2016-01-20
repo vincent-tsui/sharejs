@@ -3,6 +3,7 @@
 @   version：0.1
 @   Author：vincent-tsui
 @   Mail: admin@xcje.cn
+@   Date：2016-01-20
 @   Note: 先配置initConfig，然后执行share(option)
 @   param title 分享的标题
 @   param desc 分享的描述
